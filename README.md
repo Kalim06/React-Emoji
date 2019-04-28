@@ -1,2 +1,2 @@
 # React-Emoji
-A search through EMOJIS
+A search through EMOJIS #
